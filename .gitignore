@@ -1,0 +1,5 @@
+bin/
+out/
+*.class
+triangulation_log.txt
+.vscode/
